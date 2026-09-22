@@ -4,6 +4,6 @@ Just a fun fact, I LOVE trying out new things! :D
 
 Nice to meet you! Have a great rest of your day!
 
-"This repository is mainly for a CS19300 "introduction to GIT" review."
+"This repository is mainly for a CS19300 "introduction to git" review."
 
-"All files seen here have important terminal-related scripts that allow for GIT add, commit, and push commands to work accordingly."
+"All files seen here have important terminal-related scripts that allow for git add, commit, and push commands to work accordingly."
